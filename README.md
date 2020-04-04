@@ -9,3 +9,8 @@ Todos los circuitos cuentan con entradas y salidas de 16 bits.
 - Multiplexor de 4 a 1.
 - Sumador completo.
 - Incrementador.
+
+Hecho por:
+- Cristian Lopera Trujillo
+- Jose Manuel Machado Loaiza
+- Sebastián Tobón Echavarría
